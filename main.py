@@ -42,7 +42,7 @@ class Boost:
         payload = {
             "fingerprint": fingerprint,
             "username": get_username(),
-            "invite": self.serverinvite,
+            "https://discord.com/invite/kT75S7tX": self.serverinvite,
             "consent": True,
             "captcha_key": captchakey
          }
